@@ -1,0 +1,15 @@
+# Ejecutables
+hola
+calculadora
+*.exe
+*.out
+
+# Archivos objeto
+*.o
+
+# Archivos temporales
+*.log
+.DS_Store
+
+# Configuraciones locales
+.vscode/
